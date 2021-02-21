@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="question_text">Canberra is the capital of Australia</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_1">Spain is a country?</string>
+    <string name="question_2">Catalonia is a country?</string>
+    <string name="question_3">Andorra is a country?</string>
+    <string name="question_4">NY is a country?</string>
+    <string name="toast_percentage">\u0020Percentage:\u0020</string>
+    <string name="show_answer_question">Are you sure you want to do this?</string>
+    <string name="show_answer_btn">Show answer</string>
+    <string name="close_btn">Close</string>
+    <string name="goto_cheat_activity_btn">Cheat!</string>
+    <string name="cheater_msg">Cheater!</string>
+</resources>
